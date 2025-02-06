@@ -1,0 +1,66 @@
+.Head{
+    background-color: rgb(12, 139, 95);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left:15px;
+    color:white;
+    height:200px;
+}
+#heading{
+    margin-bottom:10px;
+    margin-top: 5px;
+    font-size: 80px;
+}
+#subheading{
+    font-size: 20px;
+    margin-top:20px;
+    font-size: 40px;
+}
+.flex-container{
+    display: flex;
+    padding-left:40px;
+}
+.hov{
+    margin-right:0px;
+}
+.h:hover{
+    background-color:  rgb(12, 139, 95);
+}
+.h{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    background-color: grey;
+    font-size: 25px;
+    border-radius: 5px;
+    height: 30px;
+    width: 250px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+li{
+    padding-bottom: 10px;
+}
+.b{
+    list-style-type: none;
+    margin-right:40px;
+}
+.one,.two{
+    background-color: rgb(214, 213, 213);
+    padding-left: 10px;
+    font-size: 22px;
+    
+}
+.three{
+    background-color: rgb(252, 223, 228);
+    padding-left: 10px;
+    font-size: 22px;
+}
+h1,h2,p{
+    padding-right: 40px;
+}
